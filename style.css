@@ -1,0 +1,94 @@
+body {   
+    background-image: url(img/rip.jpg);      
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    background-attachment: fixed;      
+    background-size: cover;      
+    background-color: #464646; }
+    
+    .button{
+      width: 474px;
+      margin: 0 auto;     
+    }
+
+
+    .button_1 {
+        text-decoration: none;
+        display: inline-block;
+        width: 140px;
+        height: 45px;
+        line-height: 45px;
+        border-radius: 45px;
+        margin: 10px 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 11px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 3px;
+        font-weight: 600;
+        color: #524f4e;
+        background: white;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+        transition: .3s;
+      }
+      .button_1:hover {
+        background: #00c3ff;
+        box-shadow: 0 25px 30px rgba(2, 31, 255, 0.4);
+        color: white;
+        transform: translateY(-7px);
+      }
+      .button_2 {
+        text-decoration: none;
+        display: inline-block;
+        width: 250px;
+        height: 45px;
+        line-height: 45px;
+        border-radius: 45px;
+        margin: 10px 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 11px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 3px;
+        font-weight: 600;
+        color: #524f4e;
+        background: white;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+        transition: .3s;
+      }
+      .button_2:hover {
+        background: #e4e419;
+        box-shadow: 0 25px 30px rgba(224, 73, 0, 0.4);
+        color: white;
+        transform: translateY(-7px);
+      }
+
+      pic {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 225px;
+       }
+       pic img { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        width: 25%;
+       }
+       h1{
+         text-align: center ;
+         font-family: 'Oswald', sans-serif;
+          font-family: 'Roboto', sans-serif;
+          
+       }
+       .text{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: -32px;
+        color: rgb(254, 254, 72);
+       }
+
+   
+    

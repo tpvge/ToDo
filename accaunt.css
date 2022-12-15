@@ -1,0 +1,16 @@
+body{
+    background-image: url(rip.jpg);
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    background-attachment: fixed;      
+    background-size: cover;      
+    background-color: #464646;
+}
+ul{
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем отступы*/
+    padding-left: 0; /*убираем отступы*/
+    margin-top:25px; /*делаем отступ сверху*/
+    background:rgb(0, 0, 0); /*добавляем фон всему меню*/
+    height: 50px;
+}

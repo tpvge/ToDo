@@ -1,0 +1,41 @@
+.block-1{
+    margin: 0;
+    width: 100%;
+
+}
+.block-2{
+    margin: 0;
+    width: 60%;
+    background-color: #ffffffcF;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 45px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.title{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 35px;
+    font-family: monospace;
+}
+.doc{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-left: 80px;
+    
+}
+.doc a{
+    text-decoration: none;
+}
+.doc a span{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.email{
+    margin-top: 80px;
+    font-size: 20px;
+    text-align: center;
+}
